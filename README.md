@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @N0tPasquy
-- 👀 I’m interested in C/C++ development
+- 👀 I’m interested in C++ & Java development
 - 🌱 I’m currently studying at "Università degli Studi di Napoli Parthenope"
 
 <!---
