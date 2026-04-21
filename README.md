@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @N0tPasquy
-- 👀 I’m interested in C++ & Swift development
+- 👀 Interested in Low-level programming & C/C++ Systems Development
+- ⭐ Experience in Swift, Java, Python & JavaScript
 - 🌱 I’m currently studying at "Università degli Studi di Napoli Parthenope"
+
+  <!--📫 How to reach me: pasquale.pagano2003@gmail.com -->
 
 <!---
 N0tPasquy/N0tPasquy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
