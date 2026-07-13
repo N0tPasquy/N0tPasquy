@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N0tPasquy
-- 👀 Interested in Low-level programming & C/C++ Systems Development
-- ⭐ Experience in Swift, Java, Python & JavaScript
+- 👀 Interested in Low-level programming & C/C++ native program
+- ⭐ Experience in C, C++, Java, Python, JavaScript & Swift
 - 🌱 I’m currently studying at "Università degli Studi di Napoli Parthenope"
 
   <!--📫 How to reach me: pasquale.pagano2003@gmail.com -->
